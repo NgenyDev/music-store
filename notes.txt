@@ -1,0 +1,6 @@
+css - cascading style sheet used to describe HTML document presentation.
+inline applying style directly to the HTML ELEMENT.
+internal/Embedded applying style inside the html document
+External type of css
+selectors - class and Id(. and #), element selector, universal selector, parent selector
+bootstrap - css framework
